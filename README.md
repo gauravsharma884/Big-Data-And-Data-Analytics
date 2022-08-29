@@ -2,7 +2,7 @@
 
 This repository contains the following project files:
 - Start Up Succes Prediction.ipynb
-- NBA Players Career Duration.html
+- NBA Players Career Duration.ipynb
 
 ### Table of Content for the project files:
 1. Data Exploration
